@@ -1,1 +1,1 @@
-Alaphabe b
+Alaphabet b
