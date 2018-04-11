@@ -1,2 +1,3 @@
 Alaphabet d
 DSP18SCM14S
+DSP18SCM84K
