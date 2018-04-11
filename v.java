@@ -1,2 +1,3 @@
 Alaphabet v
 VSP18SCM11J
+VSP18SCM42K
