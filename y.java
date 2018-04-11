@@ -1,1 +1,3 @@
 Alaphabet y
+YSP18SCM46Z
+YSP18SCM92Z
