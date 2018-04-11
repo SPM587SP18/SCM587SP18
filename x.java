@@ -1,2 +1,3 @@
 Alaphabet x
+XSP18SCM39L
 XSP18SCM41X
