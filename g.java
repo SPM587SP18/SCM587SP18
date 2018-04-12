@@ -1,2 +1,3 @@
 Alaphabet g
 GSP18SCM22M
+ASP18SCM22G
