@@ -1,2 +1,3 @@
 Alaphabet n
 NSP18SCM85E
+NSP18SCM35K
