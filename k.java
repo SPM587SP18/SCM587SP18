@@ -1,3 +1,4 @@
 Alaphabet k
 
 KSP18SCM22B 
+VSP18SCM42K
