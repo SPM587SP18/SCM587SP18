@@ -1,2 +1,3 @@
 Alaphabets b
 BSP18SCM69R
+MSP18SCM65B
