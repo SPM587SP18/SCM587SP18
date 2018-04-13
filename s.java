@@ -1,3 +1,2 @@
 Alaphabet s
 SSP18SCM86K
-ASP18SCM22S
